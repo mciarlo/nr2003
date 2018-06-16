@@ -1,8 +1,8 @@
 ## NR2003 Skies by Michael Ciarlo
 
-SimRacingDesign: halfwayglad
-StunodRacing: MBC
-Twitter: mciarlo
+• SimRacingDesign: halfwayglad
+• StunodRacing: MBC
+• Twitter: mciarlo
 
 
 ## Thank You
